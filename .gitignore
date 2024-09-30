@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.env/
+
+# Django specific
+*.log
+db.sqlite3
+/media/
+staticfiles/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.swp
+
+# Node modules
+node_modules/
+
+# macOS specific
+.DS_Store
+
+# Environment variables
+.env
+
